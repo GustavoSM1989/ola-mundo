@@ -3,4 +3,4 @@
 
 Repositório criado de uma aula do Curso em Vídeo
 
-Essa linha eu adicionei firetamente no site!
+Essa linha eu adicionei diretamente no site!
