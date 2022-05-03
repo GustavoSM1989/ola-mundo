@@ -51,3 +51,8 @@ Lista de tarefas:
  - [ ] Criar a página da Loja
  - [ ] finalizar a reunião com o Cliente
  - [x] teste
+
+Tabela:
+Num | Nome| Nota
+---|---|---
+1 | Gustavo | 8,5
